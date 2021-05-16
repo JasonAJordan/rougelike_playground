@@ -1,0 +1,10 @@
+C:\Users\Jason\Desktop\codingall\rust\games\rougelike_playground\target\debug\deps\bracket_pathfinding-d3a3061efbf2e305.rmeta: C:\Users\Jason\.cargo\registry\src\github.com-1ecc6299db9ec823\bracket-pathfinding-0.8.4\src\lib.rs C:\Users\Jason\.cargo\registry\src\github.com-1ecc6299db9ec823\bracket-pathfinding-0.8.4\src\astar.rs C:\Users\Jason\.cargo\registry\src\github.com-1ecc6299db9ec823\bracket-pathfinding-0.8.4\src\dijkstra.rs C:\Users\Jason\.cargo\registry\src\github.com-1ecc6299db9ec823\bracket-pathfinding-0.8.4\src\fieldofview.rs
+
+C:\Users\Jason\Desktop\codingall\rust\games\rougelike_playground\target\debug\deps\libbracket_pathfinding-d3a3061efbf2e305.rlib: C:\Users\Jason\.cargo\registry\src\github.com-1ecc6299db9ec823\bracket-pathfinding-0.8.4\src\lib.rs C:\Users\Jason\.cargo\registry\src\github.com-1ecc6299db9ec823\bracket-pathfinding-0.8.4\src\astar.rs C:\Users\Jason\.cargo\registry\src\github.com-1ecc6299db9ec823\bracket-pathfinding-0.8.4\src\dijkstra.rs C:\Users\Jason\.cargo\registry\src\github.com-1ecc6299db9ec823\bracket-pathfinding-0.8.4\src\fieldofview.rs
+
+C:\Users\Jason\Desktop\codingall\rust\games\rougelike_playground\target\debug\deps\bracket_pathfinding-d3a3061efbf2e305.d: C:\Users\Jason\.cargo\registry\src\github.com-1ecc6299db9ec823\bracket-pathfinding-0.8.4\src\lib.rs C:\Users\Jason\.cargo\registry\src\github.com-1ecc6299db9ec823\bracket-pathfinding-0.8.4\src\astar.rs C:\Users\Jason\.cargo\registry\src\github.com-1ecc6299db9ec823\bracket-pathfinding-0.8.4\src\dijkstra.rs C:\Users\Jason\.cargo\registry\src\github.com-1ecc6299db9ec823\bracket-pathfinding-0.8.4\src\fieldofview.rs
+
+C:\Users\Jason\.cargo\registry\src\github.com-1ecc6299db9ec823\bracket-pathfinding-0.8.4\src\lib.rs:
+C:\Users\Jason\.cargo\registry\src\github.com-1ecc6299db9ec823\bracket-pathfinding-0.8.4\src\astar.rs:
+C:\Users\Jason\.cargo\registry\src\github.com-1ecc6299db9ec823\bracket-pathfinding-0.8.4\src\dijkstra.rs:
+C:\Users\Jason\.cargo\registry\src\github.com-1ecc6299db9ec823\bracket-pathfinding-0.8.4\src\fieldofview.rs:
