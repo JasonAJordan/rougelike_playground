@@ -1,4 +1,7 @@
-use rltk::{Rltk, GameState};
+use rltk::{GameState, Rltk, RGB, VirtualKeyCode};
+use specs::prelude::*;
+use std::cmp::{max, min};
+use specs_derive::Component;
 
 struct State {}
 impl GameState for State {
@@ -16,3 +19,4 @@ fn main() -> rltk::BError {
     let gs = State{ };
     rltk::main_loop(context, gs)
 }
+
